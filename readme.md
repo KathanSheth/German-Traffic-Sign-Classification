@@ -1,6 +1,6 @@
 # German Traffic Dataset Study Project
 
-This is my second project (after Dogs_vs_Cats) on Image classification using CNN and Keras. 
+This is my second project (after Dogs_vs_Cats) on Image classification using CNN and Keras. Previously, I have implemented same project using HOG features and Linear SVM. In this implementation, I have tried simple MLP and different CNN architecture.
 
 Original Dataset can be found here:
 
